@@ -1,3 +1,3 @@
 # Azure Function
 
-Deploy this function with github Actions
+Deploy this function with github Actions 
